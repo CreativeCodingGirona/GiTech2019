@@ -11,6 +11,7 @@ Taller de Programació amb Processing - GiTech 2019
 
 - [web](https://p5js.org/es/)
 - [editor](https://editor.p5js.org/)
+- [Llibre Introducción a p5.js](https://github.com/processing/p5.js-getting-started-es)
 
 ## Exemples
 
