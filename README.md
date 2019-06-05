@@ -1,5 +1,7 @@
 # GiTech2019
 
+![joan](https://user-images.githubusercontent.com/1307927/58960483-90321400-87a7-11e9-9082-b48b6b7a017c.jpg)
+
 Taller de Programació amb Processing - GiTech 2019
 
 ## Presentacions
